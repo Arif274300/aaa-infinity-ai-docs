@@ -1,20 +1,30 @@
-# ARCHITECTURE
+# System Architecture
 
-> AAA Infinity AI Documentation
+```mermaid
+graph TD
 
-## Overview
+User --> Ari
 
-Coming soon.
+Ari --> Router
 
-## Goals
+Router --> OpenRouter
 
-Coming soon.
+Router --> HuggingFace
 
-## Architecture
+Router --> HuggingFaceSpaces
 
-Coming soon.
+Router --> GoogleColab
 
-## Examples
+GoogleColab --> ComfyUI
 
-Coming soon.
+Router --> Cloudflare
 
+Cloudflare --> Infisical
+
+Ari --> Gallery
+
+Ari --> Projects
+
+Ari --> PromptStudio
+
+Ari --> WorkflowEngine
