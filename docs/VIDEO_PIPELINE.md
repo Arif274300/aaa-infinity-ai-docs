@@ -1,20 +1,55 @@
-# VIDEO_PIPELINE
-
-> AAA Infinity AI Documentation
+# 🎥 Video Pipeline
 
 ## Overview
 
-Coming soon.
+AAA Infinity AI creates videos using Hugging Face Spaces and other supported providers.
 
-## Goals
+## Pipeline
 
-Coming soon.
+Prompt
 
-## Architecture
+↓
 
-Coming soon.
+Ari AI
 
-## Examples
+↓
 
-Coming soon.
+Provider Router
+
+↓
+
+Video Provider
+
+↓
+
+Video
+
+↓
+
+Gallery
+
+---
+
+## Providers
+
+- Hugging Face Spaces
+- Hugging Face Inference
+
+---
+
+## Features
+
+- Text to Video
+- Image to Video
+- Video Upscaling
+- Frame Interpolation
+
+---
+
+## Future
+
+- WAN Video
+- Hunyuan Video
+- Kling Connector
+- Batch Rendering
 

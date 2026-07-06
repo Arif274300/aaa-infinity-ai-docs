@@ -1,20 +1,68 @@
-# IMAGE_PIPELINE
-
-> AAA Infinity AI Documentation
+# 🖼️ Image Pipeline
 
 ## Overview
 
-Coming soon.
+AAA Infinity AI generates images through Ari AI.
 
-## Goals
+## Pipeline
 
-Coming soon.
+User
 
-## Architecture
+↓
 
-Coming soon.
+Prompt Engine
 
-## Examples
+↓
 
-Coming soon.
+Provider Router
+
+↓
+
+Google Colab / Hugging Face
+
+↓
+
+ComfyUI
+
+↓
+
+Image
+
+↓
+
+Gallery
+
+---
+
+## Supported Models
+
+- SDXL
+- Stable Diffusion 1.5
+- DreamShaper
+- Juggernaut XL
+- Realistic Vision
+- Absolute Reality
+- Anything V5
+
+---
+
+## Features
+
+- Text to Image
+- Image to Image
+- Inpainting
+- Outpainting
+- Upscaling
+- Face Detailer
+- LoRA
+- ControlNet
+
+---
+
+## Future
+
+- FLUX
+- WAN
+- Image Editor
+- Batch Rendering
 
