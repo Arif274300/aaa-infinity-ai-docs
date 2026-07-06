@@ -1,20 +1,60 @@
-# ARI_AI
+# 🤖 Ari AI
 
-> AAA Infinity AI Documentation
+> The intelligent AI orchestrator of AAA Infinity AI.
 
-## Overview
+## Mission
 
-Coming soon.
+Ari AI is the central intelligence of AAA Infinity AI.
 
-## Goals
+## Responsibilities
 
-Coming soon.
+- Understand user intent
+- Select the best AI provider
+- Improve prompts
+- Execute workflows
+- Manage projects
+- Organize generated content
 
-## Architecture
+## Connected Providers
 
-Coming soon.
+### OpenRouter
+- Chat
+- Coding
+- Vision
 
-## Examples
+### Hugging Face
+- Spaces
+- Inference API
+- Image Models
+- Video Models
 
-Coming soon.
+### Google Colab
+- ComfyUI
+- Stable Diffusion
 
+### Cloudflare
+- Workers
+- Pages
+
+### Infisical
+- API Keys
+- Secrets
+
+## Skills
+
+- Chat
+- Coding
+- Image Generation
+- Video Generation
+- OCR
+- PDF Chat
+- Translation
+- Speech to Text
+- Text to Speech
+
+## Future
+
+- Multi-Agent System
+- Plugin Marketplace
+- Local AI Support
+- Workflow Automation
