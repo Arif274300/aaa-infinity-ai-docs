@@ -1,20 +1,34 @@
-# UI_UX
+# 🎨 UI / UX
 
-> AAA Infinity AI Documentation
+## Design Goals
 
-## Overview
+- Android First
+- Material Design 3
+- One Hand Friendly
+- Fast
+- Minimal
+- Accessible
 
-Coming soon.
+## Pages
 
-## Goals
+- Home
+- Ari
+- Chat
+- Create
+- Gallery
+- Projects
+- Models
+- Settings
 
-Coming soon.
+## Themes
 
-## Architecture
+- Light
+- Dark
+- AMOLED
+- Dynamic Colors
 
-Coming soon.
+## Future
 
-## Examples
-
-Coming soon.
-
+- Tablet Layout
+- Desktop Layout
+- Widgets
