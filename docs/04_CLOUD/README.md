@@ -1,6 +1,8 @@
-# 04_CLOUD
+# 04 Cloud Platform
 
-Professional documentation for the 04_CLOUD module of AAA Infinity AI.
+The cloud platform powers AAA Infinity AI.
 
-Status: Planning
+The Android application is a lightweight client while cloud services provide AI, storage, automation, configuration, orchestration, and APIs.
+
+Status: Draft
 Version: 1.0
