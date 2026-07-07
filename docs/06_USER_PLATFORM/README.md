@@ -1,6 +1,25 @@
-# 06_USER_PLATFORM
+# 06 User Platform
 
-Professional documentation for the 06_USER_PLATFORM module of AAA Infinity AI.
+The User Platform defines the complete mobile experience for AAA Infinity AI users.
 
-Status: Planning
+Status: Draft
+
 Version: 1.0
+
+The Android application acts as a lightweight shell while Ari AI and cloud services provide intelligent capabilities.
+
+The User Platform includes:
+
+- Authentication
+- Home
+- Ari AI
+- Workspace
+- Projects
+- Artifacts
+- Search
+- Marketplace
+- Credits
+- Settings
+- Notifications
+- Cloud Sync
+
