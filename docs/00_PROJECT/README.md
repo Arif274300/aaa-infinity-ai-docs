@@ -1,6 +1,4 @@
-# 00_PROJECT
+# 00 Project
 
-Professional documentation for the 00_PROJECT module of AAA Infinity AI.
+Contains the vision, mission, philosophy, standards, roadmap, governance and planning documentation for AAA Infinity AI.
 
-Status: Planning
-Version: 1.0

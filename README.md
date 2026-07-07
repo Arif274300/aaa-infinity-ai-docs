@@ -1,24 +1,20 @@
 # AAA Infinity AI
 
-> Mobile AI Cloud Operating System
+## Master Documentation Repository
 
-AAA Infinity AI is a mobile-first, cloud-native AI platform.
+Version: 1.0
 
-The Android application is a lightweight shell while Ari AI orchestrates cloud services, AI providers, automation, workflows, artifacts, and intelligent assistants.
+Status: Architecture Planning
 
-## Core Principles
+AAA Infinity AI is a mobile-first, cloud-native AI operating platform.
 
-- Mobile First
-- Cloud Native
-- AI Native
-- Modular Architecture
-- Secure by Design
-- Privacy First
-- Configuration Driven
-- Event Driven
-- Automation First
+This repository contains the complete architecture, engineering standards, product specifications, security model, cloud design, Ari AI design, admin platform, user platform, automation platform, connector framework, infrastructure documentation, and future roadmap.
 
-## Primary Infrastructure
+This repository contains documentation only.
+
+Production code belongs in a separate repository.
+
+Primary Infrastructure
 
 - Cloudflare
 - GitHub
@@ -26,6 +22,15 @@ The Android application is a lightweight shell while Ari AI orchestrates cloud s
 - Firebase
 - Infisical
 
-## Status
+Design Principles
 
-Master Documentation Version 1.0
+- Mobile First
+- AI Native
+- Cloud Native
+- Modular
+- Event Driven
+- Secure by Design
+- Privacy by Design
+- Configuration Driven
+- Documentation First
+

@@ -1,13 +1,18 @@
 # Version
 
-Current Version: 1.0.0
+Current Version
 
-Status:
+1.0.0
 
-Architecture Planning
+Repository Status
+
+Planning
+
+Architecture
 
 Documentation
 
-Master Blueprint
+Implementation
 
-No production implementation is included in this repository.
+Not Started
+
