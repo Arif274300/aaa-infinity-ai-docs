@@ -1,6 +1,7 @@
-# 05_ARI_AI
+# 05 Ari AI
 
-Professional documentation for the 05_ARI_AI module of AAA Infinity AI.
+Ari AI is the intelligent cloud orchestration system of AAA Infinity AI.
 
-Status: Planning
+Status: Draft
+
 Version: 1.0
