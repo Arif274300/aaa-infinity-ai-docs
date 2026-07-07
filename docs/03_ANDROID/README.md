@@ -1,6 +1,8 @@
-# 03_ANDROID
+# 03 Android Platform
 
-Professional documentation for the 03_ANDROID module of AAA Infinity AI.
+This section documents the Android application.
 
-Status: Planning
+The Android app is a lightweight shell responsible for native device integration while cloud services and Ari AI provide most application logic.
+
+Status: Draft
 Version: 1.0
