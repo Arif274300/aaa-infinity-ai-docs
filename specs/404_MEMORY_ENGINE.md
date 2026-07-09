@@ -1,6 +1,6 @@
 # AAA Infinity AI
 # Specification 404
-# Ari Memory Engine
+# Memory Engine
 
 Version: 3.0
 
@@ -10,22 +10,22 @@ Status: Official Implementation Specification
 
 # 1. Vision
 
-The Memory Engine allows Ari AI to remember relevant information, maintain context across conversations and workspaces, and provide personalized assistance.
+The Memory Engine enables Ari AI to maintain context across conversations, projects, workspaces and sessions.
 
-Memory should be useful, privacy-aware and always under user control.
+Memory should improve the user experience while respecting privacy, permissions and security.
 
 ==================================================
 
 # 2. Objectives
 
-- Persistent Memory
-- Context Awareness
-- Workspace Memory
+- Long-Term Memory
+- Short-Term Memory
 - Project Memory
-- AI Learning
-- Fast Retrieval
+- Workspace Memory
+- Context Awareness
+- AI Optimization
 - Secure Storage
-- User Controlled
+- Fast Retrieval
 
 ==================================================
 
@@ -35,19 +35,27 @@ User
 
 ↓
 
-Conversation
+Conversation Memory
 
 ↓
 
-Memory Manager
+Project Memory
 
 ↓
 
-Memory Store
+Workspace Memory
 
 ↓
 
-Search & Retrieval
+Knowledge Memory
+
+↓
+
+Long-Term Memory
+
+↓
+
+Memory Retrieval
 
 ↓
 
@@ -57,100 +65,121 @@ Ari AI Kernel
 
 # 4. Memory Types
 
-Short-Term Memory
+Supported Types
 
-- Current Conversation
-- Current Task
-- Active Files
-
-Long-Term Memory
-
-- User Preferences
-- Workspace Knowledge
-- Project Knowledge
-- AI Summaries
-
-Session Memory
-
-- Temporary State
-- Active Tools
-- Running Workflows
+- Conversation Memory
+- User Memory
+- Workspace Memory
+- Project Memory
+- Artifact Memory
+- Knowledge Memory
+- Session Memory
+- Temporary Memory
 
 ==================================================
 
-# 5. Sources
+# 5. Memory Lifecycle
 
-Memory may come from
+Create
 
-- Conversations
-- Files
-- Images
-- Documents
-- Projects
-- Notes
-- Connectors
-- AI Generated Summaries
+↓
+
+Index
+
+↓
+
+Store
+
+↓
+
+Update
+
+↓
+
+Retrieve
+
+↓
+
+Archive
+
+↓
+
+Delete (Retention Policy)
 
 ==================================================
 
 # 6. Retrieval
 
-Retrieve by
+Memory can be retrieved using
 
-- Keywords
-- Semantic Search
-- Workspace
-- Project
-- Tags
-- Date
-- AI Ranking
-
-==================================================
-
-# 7. Privacy
-
-Users can
-
-- View Memory
-- Edit Memory
-- Delete Memory
-- Disable Memory
-- Export Memory
+- Conversation Context
+- Project Context
+- Workspace Context
+- Search
+- AI Planning
+- User Request
 
 ==================================================
 
-# 8. Performance
+# 7. Optimization
+
+Features
+
+- Deduplication
+- Compression
+- Semantic Indexing
+- Automatic Categorization
+- Expiration Policies
+- Background Cleanup
+
+==================================================
+
+# 8. Security
 
 Requirements
 
-- Fast Search
-- Incremental Updates
-- Background Indexing
-- Efficient Storage
-- Intelligent Caching
-
-==================================================
-
-# 9. Security
-
-Rules
-
-- Encryption at Rest
-- Encryption in Transit
 - Permission Validation
-- Audit Logging
-- Secure Backup
+- Encryption
+- Audit Logs
+- Secure Storage
+- Memory Isolation
+- Access Control
 
 ==================================================
 
-# 10. Future
+# 9. Performance
 
-Future Features
+Goals
 
-- Cross-Workspace Memory
-- AI Memory Summaries
-- Smart Memory Cleanup
-- Memory Timeline
-- Memory Insights
-- Shared Team Memory
+- Fast Lookup
+- Lazy Loading
+- Efficient Indexes
+- Background Indexing
+- Low Memory Usage
+
+==================================================
+
+# 10. Monitoring
+
+Monitor
+
+- Memory Growth
+- Retrieval Time
+- Cache Hit Rate
+- Errors
+- Expired Records
+- Index Health
+
+==================================================
+
+# 11. Future
+
+Future Improvements
+
+- Cross-Project Reasoning
+- AI Memory Ranking
+- Personalized Recall
+- Memory Summaries
+- Intelligent Memory Cleanup
+- Distributed Memory Services
 
